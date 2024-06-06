@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    min-width:100%;
+    height:100vh;
+    background:blueviolet;
+}
+
+h1{
+    color:white;
+    text-align:center;
+    position:relative;
+    top:50px;
+}
+
+button{
+    width:200px;
+    height:45px;
+    background:maroon;
+    color:white;
+    border:none;
+    position:relative;
+    left:500px;
+    top:300px;
+    cursor:pointer;
+}
